@@ -1,0 +1,7 @@
+# List
+list 1=[1,2,3,4]
+Fruits =["apple","banana","cherry"]
+
+print(thislist) (list)
+thislist =["apple","banana","cherry"]
+print(thislist)
